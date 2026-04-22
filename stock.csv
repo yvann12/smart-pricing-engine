@@ -1,0 +1,5 @@
+sku_id,product,purchased_at,quantity,unit_cost_xaf,shelf_life_hours,supplier
+TOM001,tomato,2026-04-22 11:56:19,88,331,72,Supplier_1
+MIL002,milk,2026-04-22 11:56:19,85,551,24,Supplier_2
+TIL003,tilapia,2026-04-22 11:56:19,93,1019,18,Supplier_3
+BAN004,banana,2026-04-22 11:56:19,48,237,120,Supplier_4
